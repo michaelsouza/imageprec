@@ -1,0 +1,4 @@
+# Pixelating Preconditioners: Comparing Image-based and Scalar Approaches in High-Performance Computing
+
+## Abstract
+This study compares scalar and image-based machine learning approaches to automate high-performance computing (HPC) preconditioner selection to accelerate the solution of sparse linear equation systems. We framed the problem as a multi-label classification task, where the labels are the preconditioners. We compared the performance of scalar-based and image-based models in predicting the most suitable preconditioner for a given sparse matrix. Experiments used a data set of sparse matrices from the SuiteSparse Matrix Collection~\cite{kolodziej2019suitesparse} and different preconditioners from the PETSc library \cite{petsc-web-page}. The results suggest that image-based models can outperform their scalar-based counterparts, offering a promising avenue for automating preconditioner selection in HPC.
