@@ -1,4 +1,4 @@
-# Dataset: Image and Scalar-Based Approaches in Preconditioner Selection`
+# Dataset: Image and Scalar-Based Approaches in Preconditioner Selection
 This repository contains the dataset used on the paper `Image and Scalar-Based Approaches in Preconditioner Selection`
 
 ## Abstract
