@@ -9,7 +9,7 @@ High-Performance Computing (HPC), Sparse Linear Systems, Iterative Methods, Prec
 # Contents
 
 |File|Description|
-|:---|:---:|
+|:---|:---|
 |`README.md`|This file|
 |`dbML.xlsx`|Data file with the optimal preconditioners and scalar attributes of each matrix|
 |`dbTIME.xlsx`|Data file with the execution times of each matrix|
